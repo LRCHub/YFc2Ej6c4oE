@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【meiyo】アイエナラエ feat. 詩羽【MV】",
+  "base_artist": "meiyo",
+  "createdAt": "2026-02-12T13:37:56.725984Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイエナラエ (feat. 詩羽)",
+      "artist": "meiyo",
+      "has_synced": false,
+      "path": "select/pl_01_アイエナラエ_(feat._詩羽)_meiyo.txt"
+    }
+  ]
+}
